@@ -4,6 +4,8 @@ title: Homepage
 permalink: /
 ---
 
+[Contact](/contact)
+
 ```mardown
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
